@@ -10,7 +10,6 @@ int main()
     printf("3\n");
     printf("2 P P P P P P P P\n");
     printf("1 R N B Q K B N R\n");
-
     printf("  a b c d e f g h\n");
     return 0;
 }
